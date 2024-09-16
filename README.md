@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a local marketplace**
  
- 🌱 I’m currently learning **Typesript, Docker, Firebase**
+ 🌱 I’m currently learning **Typesript, Docker, MongoDB**
 
 💬 Ask me about **Node.js, React, Flutter... or anything [here](https://github.com/Katkat04/Katkat04/issues)**
 
