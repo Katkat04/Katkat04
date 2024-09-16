@@ -32,8 +32,8 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma, flutter" />
     <img src="https://skillicons.dev/icons?i=tailwind, git,nodejs,python,javascript,firebase,dart" /><br>
