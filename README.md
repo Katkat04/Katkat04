@@ -28,7 +28,9 @@
 </div>
 
  <hr/>
+ <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katkat04)](https://github.com/Katkat04/github-readme-stats)
+ <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
