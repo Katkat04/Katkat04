@@ -29,14 +29,7 @@
 
  <hr/>
  <br>
- <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
-    <a href="[https://github.com/Katkat04/github-readme-stats"]><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Katkat04"] alt="GitHub Streak" /></a>
-</p>
-<hr/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katkat04)](https://github.com/Katkat04/github-readme-stats)
- <br>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
