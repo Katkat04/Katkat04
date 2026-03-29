@@ -7,16 +7,6 @@
 <h3 align="center">A passionate frontend developer from Colombia 🇨🇴</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a local marketplace**
- 
- 🌱 I’m currently learning **Typesript, Docker, MongoDB**
-
-⚡ Fun fact **I am a takis lover**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:diazkaty0409@gmail.com">
